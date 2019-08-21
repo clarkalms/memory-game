@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Album 1",
+      "image": "/images/album_1.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Album 2",
+      "image": "/images/album_2.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Album 3",
+      "image": "/images/album_3.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Album 4",
+      "image": "/images/album_4.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 5,
+      "name": "Album 5",
+      "image": "/images/album_5.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Album 6",
+      "image": "/images/album_6.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Album 7",
+      "image": "/images/album_7.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Album 8",
+      "image": "/images/album_8.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Album 9",
+      "image": "/images/album_9.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Album 10",
+      "image": "/images/album_10.png",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Album 11",
+      "image": "/images/album_11.jpg",
+      "doneBeenClicked": false
+    },
+    {
+      "id": 12,
+      "name": "Album 12",
+      "image": "/images/album_12.jpg",
+      "doneBeenClicked": false
+    }
+  ]

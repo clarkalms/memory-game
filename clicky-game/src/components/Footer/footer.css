@@ -1,0 +1,18 @@
+
+.footer {
+    height: 75px;
+    background: white;
+    bottom: 0;
+    border-top: 1px solid rgb(214, 214, 214) !important;
+    margin-top: 50px;
+  }
+    
+.footer div {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px 0;
+    text-align: center;
+  
+    
+}
